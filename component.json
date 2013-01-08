@@ -1,9 +1,9 @@
 {
   "name": "top",
   "repo": "component/top",
-  "description": "Transient back-to-top link",
+  "description": "Transient back-to-top on scroll link",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["top", "back", "scroll"],
   "dependencies": {
     "matthewmueller/debounce": "*",
     "component/event": "*",
