@@ -21,7 +21,7 @@ module.exports = top;
  */
 
 function top() {
-  var el = domify(html)[0];
+  var el = domify(html);
   var height = window.innerHeight;
 
   function onscroll() {
