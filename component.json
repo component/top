@@ -5,9 +5,9 @@
   "version": "0.0.1",
   "keywords": ["top", "back", "scroll"],
   "dependencies": {
-    "matthewmueller/debounce": "*",
-    "component/event": "*",
-    "component/domify": "*"
+    "matthewmueller/debounce": "0.0.1",
+    "component/event": "0.1.0",
+    "component/domify": "1.0.0"
   },
   "development": {},
   "license": "MIT",
